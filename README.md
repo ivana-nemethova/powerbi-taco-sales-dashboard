@@ -67,6 +67,6 @@ If you're viewing this project as a potential employer, I’d appreciate your fe
 ## Author  
 
 Created by Ivana Némethová  
-Email **i.nemethova@hotmail.sk**
+Email **i.nemethova@hotmail.sk**  
 LinkedIn [Ivana Némethová](https://www.linkedin.com/in/ivana-nemethova/)
 
